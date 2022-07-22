@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+body{
+    background-color: lightsteelblue;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    height: 100vh;
+}
+#card{
+    background-color: aliceblue;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+    margin: 0 auto;
+    width: 300px;
+    display: block;
+    
+}
+
+#image{
+    width: 260px;
+    background-color: dodgerblue;
+    margin: 0 auto;
+    border-radius: 15px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+#first{
+    font-size: 23px;
+    margin: 15px auto;
+}
+#last{
+    font-size: 18px;
+    margin: 10px auto;
+}
